@@ -13,6 +13,7 @@
 </head>
   <body>  
   <form>
+    <h1>From Register IT Club GDSC</h1>
   <div class="form-group row">
     <label for="nim" class="col-4 col-form-label">NIM</label> 
     <div class="col-8">
